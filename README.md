@@ -34,6 +34,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -41,7 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhHoang2310&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
+
 ---
+-->
 
 ## 📫 Connect with Me  
 <p align="center">

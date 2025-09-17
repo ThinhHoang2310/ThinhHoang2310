@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thinh Hoang  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3cGlrN2FhNjZxYjA3cXkxMWtkamM2YjhkZWdmcmV0cG1qZ3FtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="120"/>
 </p>
 
 ---
@@ -45,16 +45,12 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://github.com/ThinhHoang2310">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="thinhhoangdinh123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://github.com/ThinhHoang2310"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="80"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="80"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="80"/></a>
 </p>
+
+
 
 ---
 ✨ _Thanks for visiting my profile!_ ✨
